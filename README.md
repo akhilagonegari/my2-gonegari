@@ -28,3 +28,10 @@ Sports are very important for everyone not only for physically but also for ment
 |  volleyball       |  Improves fitness                       |  8 Hours                    |
 |  Criket           |  Improves physical and mental health    |  11 Hours                   |
 |  Table Tennis     |  Improves mentality and balance strength|  6 Hours                    |
+
+**** 
+ 
+ ### Scientists Quotes
+ > 1. "I believe that a scientist looking at nonscientific problems is just as dumb as the next guy." by _Richard Feynman_
+ > 2. "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." by _Marie Curie_
+ 
