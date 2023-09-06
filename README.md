@@ -34,4 +34,26 @@ Sports are very important for everyone not only for physically but also for ment
  ### Scientists Quotes
  > 1. "I believe that a scientist looking at nonscientific problems is just as dumb as the next guy." by _Richard Feynman_
  > 2. "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." by _Marie Curie_
- 
+
+ ****
+
+ ### Code Fencing 
+ Question:<https://stackoverflow.com/questions/63524849/orientation-lock-on-landscape-css>
+
+ ~~~~
+
+ @media screen and (min-width: 320px) and (max-width: 767px) and (orientation: landscape) {
+  html {
+    transform: rotate(-90deg);
+    transform-origin: left top;
+    width: 100vh;
+    overflow-x: hidden;
+    position: absolute;
+    top: 100%;
+    left: 0;
+  }
+}
+
+~~~~
+
+[Snippet Code](https://css-tricks.com/snippets/css/orientation-lock/)
